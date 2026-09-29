@@ -1,0 +1,68 @@
+okf:
+  version: "0.2"
+
+knowledge_unit_types:
+
+  concept:
+    description: >
+      A coherent piece of knowledge about a vehicle,
+      feature, system, component, or capability.
+
+  procedure:
+    description: >
+      A sequence of actions required to perform a task.
+
+  component:
+    description: >
+      A physical or logical vehicle component, control,
+      indicator, system, or interface element.
+
+  warning:
+    description: >
+      Safety-critical or damage-prevention information.
+
+  note:
+    description: >
+      Additional contextual information associated
+      with another knowledge unit.
+
+  specification:
+    description: >
+      A defined technical, dimensional, electrical,
+      mechanical, or performance value.
+
+  table:
+    description: >
+      Structured information whose row/column relationships
+      are meaningful and must be preserved.
+
+  troubleshooting:
+    description: >
+      Information describing a problem, condition,
+      cause, diagnostic clue, or corrective action.
+
+  maintenance:
+    description: >
+      Maintenance operation, interval, inspection,
+      replacement, or servicing information.
+
+  warranty:
+    description: >
+      Warranty terms, conditions, exclusions,
+      limitations, or related information.
+
+
+relationships:
+
+  - contains
+  - part_of
+  - related_to
+  - depends_on
+  - requires
+  - procedure_for
+  - describes
+  - warns_about
+  - applies_to
+  - references
+  - derived_from
+  - supersedes

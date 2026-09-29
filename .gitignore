@@ -1,0 +1,162 @@
+# =========================================================
+# Python
+# =========================================================
+
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# =========================================================
+# IDE / Editors
+# =========================================================
+
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# =========================================================
+# Logs
+# =========================================================
+
+*.log
+logs/
+
+# =========================================================
+# Test / Coverage
+# =========================================================
+
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+
+# =========================================================
+# Model files / ML artifacts
+# =========================================================
+
+*.onnx
+*.onnx_data
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.gguf
+*.ggml
+*.tflite
+*.ort
+*.engine
+
+# ML runtime / downloaded model directories
+models/
+model/
+checkpoints/
+weights/
+
+# =========================================================
+# Large / generated knowledge-base artifacts
+# =========================================================
+
+# Extracted/generated knowledge
+extracted_knowledge/
+
+# Generated OKF bundle
+okf_bundle/
+
+# Analysis outputs
+analysis/
+
+# Generated processed data
+processed/
+
+# =========================================================
+# Source documents
+# =========================================================
+
+# PDFs / manuals
+*.pdf
+
+# If you have other large source-document formats
+*.doc
+*.docx
+*.ppt
+*.pptx
+*.xlsx
+
+# =========================================================
+# Audio / video / images generated during processing
+# =========================================================
+
+*.wav
+*.mp3
+*.flac
+*.m4a
+*.ogg
+*.mp4
+*.avi
+*.mov
+
+# Extracted/generated image directories
+extracted_knowledge/images/
+okf_bundle/images/
+
+# =========================================================
+# Temporary files
+# =========================================================
+
+tmp/
+temp/
+*.tmp
+*.temp
+*.bak
+
+# =========================================================
+# Build / distribution
+# =========================================================
+
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# =========================================================
+# Node / frontend, if applicable
+# =========================================================
+
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# =========================================================
+# OS files
+# =========================================================
+
+.DS_Store
+Thumbs.db
+
+# Source documents / manuals
+factory_rag2/harrier_docs/
+
+#language models
+indicconformer_test/
+
+#python cache
+__pycache__/
+*.pyc

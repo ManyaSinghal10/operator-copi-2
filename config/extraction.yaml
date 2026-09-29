@@ -1,0 +1,35 @@
+extraction:
+
+  preserve_source:
+    enabled: true
+
+  preserve_page_numbers:
+    enabled: true
+
+  preserve_tables:
+    enabled: true
+
+  preserve_warnings:
+    enabled: true
+
+  preserve_notes:
+    enabled: true
+
+  detect_procedures:
+    enabled: true
+
+  detect_specifications:
+    enabled: true
+
+  detect_components:
+    enabled: true
+
+  detect_relationships:
+    enabled: true
+
+  index_detection:
+    enabled: true
+
+  minimum_concept_chars: 80
+
+  maximum_concept_chars: 15000

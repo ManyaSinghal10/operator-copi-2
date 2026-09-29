@@ -1,0 +1,46 @@
+documents:
+
+  - id: doc_001
+    file: harrier-7-inch-infotainment-manual.pdf
+    category: infotainment_manual
+    status: pending
+
+  - id: doc_002
+    file: harrier-8-inch-infotainment-manual.pdf
+    category: infotainment_manual
+    status: pending
+
+  - id: doc_003
+    file: harrier-bs6-owners-manual-april-2026.pdf
+    category: owners_manual
+    status: pending
+
+  - id: doc_004
+    file: harrier-bsvi-festev-edition-03.pdf
+    category: vehicle_manual
+    status: pending
+
+  - id: doc_005
+    file: harrier-gasoline-owners-manual.pdf
+    category: owners_manual
+    status: pending
+
+  - id: doc_006
+    file: harrier-mce-infotainment-system-user-manual-feb-2024.pdf
+    category: infotainment_manual
+    status: pending
+
+  - id: doc_007
+    file: harrier-mce-user-infotainment-manual.pdf
+    category: infotainment_manual
+    status: pending
+
+  - id: doc_008
+    file: Harrier-osb.pdf
+    category: vehicle_document
+    status: pending
+
+  - id: doc_009
+    file: harrier-safari-dark-stealth-program.pdf
+    category: vehicle_document
+    status: pending

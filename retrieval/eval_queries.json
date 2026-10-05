@@ -1,0 +1,233 @@
+[
+  {
+    "id": "q01",
+    "category": "bluetooth",
+    "query": "How do I pair my phone with the Harrier infotainment system?",
+    "expected_concepts": [
+      "doc_001_p45_b15",
+      "doc_002_p45_b14"
+    ]
+  },
+  {
+    "id": "q02",
+    "category": "bluetooth",
+    "query": "How can I connect or disconnect a phone that is already paired?",
+    "expected_concepts": [
+      "doc_001_p47_b3",
+      "doc_002_p47_b3"
+    ]
+  },
+  {
+    "id": "q03",
+    "category": "bluetooth",
+    "query": "How do I remove a phone from the paired devices list?",
+    "expected_concepts": [
+      "doc_001_p47_b8",
+      "doc_002_p47_b8"
+    ]
+  },
+  {
+    "id": "q04",
+    "category": "bluetooth",
+    "query": "What should I do if my phone will not pair with the Harrier?",
+    "expected_concepts": [
+      "doc_001_p45_b15",
+      "doc_002_p45_b14",
+      "doc_001_p46_b10",
+      "doc_002_p46_b8"
+    ]
+  },
+  {
+    "id": "q05",
+    "category": "android_auto",
+    "query": "How do I configure Android Auto in the Harrier?",
+    "expected_concepts": [
+      "doc_001_p85_b8",
+      "doc_002_p82_b8"
+    ]
+  },
+  {
+    "id": "q06",
+    "category": "carplay",
+    "query": "How do I configure Apple CarPlay in the Harrier?",
+    "expected_concepts": [
+      "doc_001_p87_b7",
+      "doc_002_p84_b7"
+    ]
+  },
+  {
+    "id": "q07",
+    "category": "phone",
+    "query": "How do I make or manage phone calls using the infotainment system?",
+    "expected_concepts": [
+      "doc_001_p50_b8",
+      "doc_002_p49_b16"
+    ]
+  },
+  {
+    "id": "q08",
+    "category": "radio",
+    "query": "How do I tune a radio station in the Harrier?",
+    "expected_concepts": [
+      "doc_001_p31_b12",
+      "doc_002_p32_b11"
+    ]
+  },
+  {
+    "id": "q09",
+    "category": "media",
+    "query": "What media sources can I use to play video?",
+    "expected_concepts": [
+      "doc_006_p105_b13",
+      "doc_007_p105_b13"
+    ]
+  },
+  {
+    "id": "q10",
+    "category": "volume",
+    "query": "How does the speed dependent volume control work?",
+    "expected_concepts": [
+      "doc_001_p80_b10",
+      "doc_002_p77_b18",
+      "doc_006_p13_b22",
+      "doc_007_p13_b22"
+    ]
+  },
+  {
+    "id": "q11",
+    "category": "park_assist",
+    "query": "How do I use Park Assist in the Harrier?",
+    "expected_concepts": [
+      "doc_002_p56_b2",
+      "doc_001_p57_b9"
+    ]
+  },
+  {
+    "id": "q12",
+    "category": "park_assist",
+    "query": "How do I change the Park Assist delay timer?",
+    "expected_concepts": [
+      "doc_001_p61_b2",
+      "doc_002_p59_b4"
+    ]
+  },
+  {
+    "id": "q13",
+    "category": "park_assist",
+    "query": "How can I change the Park Assist tone volume?",
+    "expected_concepts": [
+      "doc_001_p60_b10",
+      "doc_002_p58_b13"
+    ]
+  },
+  {
+    "id": "q14",
+    "category": "climate",
+    "query": "How do I access the climate control from the infotainment system?",
+    "expected_concepts": [
+      "doc_006_p13_b16",
+      "doc_007_p13_b16"
+    ]
+  },
+  {
+    "id": "q15",
+    "category": "tpms",
+    "query": "What should I do if the tyre pressure warning appears?",
+    "expected_concepts": [
+      "doc_003_p85_b5",
+      "doc_005_p102_b10",
+      "doc_005_p102_b8",
+      "doc_005_p158_b3"
+    ]
+  },
+  {
+    "id": "q16",
+    "category": "tyres",
+    "query": "How should I check the tyre pressure and condition?",
+    "expected_concepts": [
+      "doc_005_p422_b53"
+    ]
+  },
+  {
+    "id": "q17",
+    "category": "flat_tyre",
+    "query": "What should I do if I get a flat tyre?",
+    "expected_concepts": [
+      "doc_003_p265_b1",
+      "doc_004_p194_b8",
+      "doc_005_p332_b2"
+    ]
+  },
+  {
+    "id": "q18",
+    "category": "hill_descent",
+    "query": "How does Hill Descent Control work?",
+    "expected_concepts": [
+      "doc_005_p40_b7",
+      "doc_004_p189_b0",
+      "doc_008_p141_b14"
+    ]
+  },
+  {
+    "id": "q19",
+    "category": "hill_hold",
+    "query": "What does Hill Hold Control do?",
+    "expected_concepts": [
+      "doc_008_p63_b4"
+    ]
+  },
+  {
+    "id": "q20",
+    "category": "adas",
+    "query": "What advanced driver assistance systems are available in the Harrier?",
+    "expected_concepts": [
+      "doc_003_p162_b1",
+      "doc_005_p235_b2"
+    ]
+  },
+  {
+    "id": "q21",
+    "category": "wipers",
+    "query": "How do I operate the front windshield wipers?",
+    "expected_concepts": [
+      "doc_005_p9_b10"
+    ]
+  },
+  {
+    "id": "q22",
+    "category": "parking",
+    "query": "How do the rear parking sensors work?",
+    "expected_concepts": [
+      "doc_005_p10_b12",
+      "doc_003_p250_b11"
+    ]
+  },
+  {
+    "id": "q23",
+    "category": "engine_start",
+    "query": "What do I need to do to start the engine?",
+    "expected_concepts": [
+      "doc_005_p153_b6",
+      "doc_005_p154_b3"
+    ]
+  },
+  {
+    "id": "q24",
+    "category": "warning",
+    "query": "What do the warning messages on the Harrier mean?",
+    "expected_concepts": [
+      "doc_005_p131_b2",
+      "doc_008_p59_b4"
+    ]
+  },
+  {
+    "id": "q25",
+    "category": "maintenance",
+    "query": "When should the engine coolant be replaced?",
+    "expected_concepts": [
+      "doc_003_p331_b57",
+      "doc_005_p420_b53",
+      "doc_005_p418_b57"
+    ]
+  }
+]
